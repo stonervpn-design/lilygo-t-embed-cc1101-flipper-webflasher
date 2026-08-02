@@ -1,6 +1,6 @@
 {
   "name": "Flipper LilyGo T-Embed CC1101+ (Public)",
-  "version": "t-embed-2026-08-02a",
+  "version": "t-embed-2026-08-02b",
   "new_install_prompt_erase": true,
   "builds": [
     {
